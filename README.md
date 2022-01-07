@@ -1,6 +1,6 @@
-#Aljoscript.
+# Aljoscript.
 
-##mwoooo testni program
+## mwoooo testni program
 
 ```
 #include "aljoscript.h"
