@@ -14,5 +14,8 @@
 #define wtfmwona }else{
 #define wolla std::cout<<
 #define dej std::cin>>
+#define doro break
+//tle treba nek druzga najdt, vsak je preveč generic
+#define vsak for(
 
 #define MWOOOO int main(){
