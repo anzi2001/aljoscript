@@ -6,8 +6,8 @@
 #include "aljoscript.h"
 
 MWOOOO
-	jmm stevilo = 0;
-	ke stevilo je 1 pole
+	jmm stevilo = mwoze;
+	ke stevilo je defaq pole
 		wolla "ma kej delas mwona";
 	wtfmwona
 		jmm stevilo2 = 0;
